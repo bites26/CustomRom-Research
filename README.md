@@ -1,19 +1,3 @@
-
----
-
-# 🔴 CRITICAL NOTICE FOR SAMSUNG GALAXY M04 USERS
-
-Before diving into the comprehensive ROM comparison, I must be **brutally honest** about your device:
-
-"I searched XDA but there's no single result to available custom ROM" — this reflects the reality that with so many models launching every month, developers only buy value-for-money mobiles in the 20k budget category. Low range, high range mobiles get little to no development.
-
-The Samsung Galaxy M04 has significant bootloader challenges — some users report it "does not have an OEM unlock option" and shows "OEM LOCK: ON" with errors stating "only official binaries allowed."
-
-**Bottom Line:** The Samsung Galaxy M04 (SM-M045F) has **extremely limited to no official custom ROM support** from major projects. The device's MediaTek Helio P35 chipset and Samsung's bootloader restrictions make it one of the hardest devices to develop for. Your only realistic options are:
-1. **GSI (Generic System Images)** via Project Treble — but compatibility varies wildly
-2. **Unofficial/experimental builds** from Telegram groups (high risk)
-3. **Rooting via Magisk** without a full custom ROM
-
 ---
 
 # 📱 COMPREHENSIVE CUSTOM ROM COMPARISON 2025
@@ -718,6 +702,21 @@ Signs of trouble:
 - Community migration to alternatives
 
 Also concerning: **PixelOS** — Android 15 hasn't rolled out to many devices suggests development bottleneck.
+
+---
+
+# 🔴 CRITICAL NOTICE FOR SAMSUNG GALAXY M04 USERS
+
+Before diving into the comprehensive ROM comparison, I must be **brutally honest** about your device:
+
+"I searched XDA but there's no single result to available custom ROM" — this reflects the reality that with so many models launching every month, developers only buy value-for-money mobiles in the 20k budget category. Low range, high range mobiles get little to no development.
+
+The Samsung Galaxy M04 has significant bootloader challenges — some users report it "does not have an OEM unlock option" and shows "OEM LOCK: ON" with errors stating "only official binaries allowed."
+
+**Bottom Line:** The Samsung Galaxy M04 (SM-M045F) has **extremely limited to no official custom ROM support** from major projects. The device's MediaTek Helio P35 chipset and Samsung's bootloader restrictions make it one of the hardest devices to develop for. Your only realistic options are:
+1. **GSI (Generic System Images)** via Project Treble — but compatibility varies wildly
+2. **Unofficial/experimental builds** from Telegram groups (high risk)
+3. **Rooting via Magisk** without a full custom ROM
 
 ---
 
