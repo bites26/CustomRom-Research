@@ -1,4 +1,3 @@
----
 # 📱 COMPREHENSIVE CUSTOM ROM COMPARISON 2025
 
 ## 🔷 SECTION 1 — ROM Identity & Classification
@@ -706,7 +705,7 @@ Also concerning: **PixelOS** — Android 15 hasn't rolled out to many devices su
 
 # 🔴 CRITICAL NOTICE FOR SAMSUNG GALAXY M04 USERS
 
-Before diving into the comprehensive ROM comparison, I must be **brutally honest** about your device:
+I must be **brutally honest** about device:
 
 "I searched XDA but there's no single result to available custom ROM" — this reflects the reality that with so many models launching every month, developers only buy value-for-money mobiles in the 20k budget category. Low range, high range mobiles get little to no development.
 
