@@ -1,5 +1,4 @@
 ---
-
 # 📱 COMPREHENSIVE CUSTOM ROM COMPARISON 2025
 
 ## 🔷 SECTION 1 — ROM Identity & Classification
