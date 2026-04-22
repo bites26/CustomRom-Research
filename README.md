@@ -733,7 +733,7 @@ The custom ROM scene in 2025 is **mature but increasingly specialized**. We're n
 
 The future? Expect **consolidation** around a few well-maintained projects. GrapheneOS's Motorola partnership signals potential mainstream adoption. LineageOS remains the backbone. But for non-Pixel, non-flagship devices, the ROM scene is shrinking rather than growing.
 
-**For your Samsung Galaxy M04 specifically:** I must be honest — your options are extremely limited. Your best path is likely:
+**For Samsung Galaxy M04 specifically:** I must be honest — options are extremely limited. best path is likely:
 1. Root with Magisk via Odin method (if bootloader unlockable)
 2. Try a Project Treble GSI (Generic System Image) — but expect bugs
 3. Accept that major ROMs like LineageOS, Evolution X, GrapheneOS, etc. will never officially support this device
